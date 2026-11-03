@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amon</h1>
 <h3 align="center">“We write code; sometimes we encounter problems, we fix them, and then we carry on. That’s how things stand for now.”</h3>
-
+<p align="center"><img src="https://i.pinimg.com/1200x/aa/bb/6b/aabb6b3321d708bc97c2620e45a92a87.jpg" alt="Depo Bannerı" width="100%"></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amon-root&label=Profile%20views&color=0e75b6&style=flat" alt="amon-root" /> </p>
 
 
